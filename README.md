@@ -28,12 +28,14 @@
 Лицензия: MIT
 
 1. Да: https://www.naiveui.com/en-US/os-theme/components/typography
-2. Да, сетка: https://www.naiveui.com/en-US/os-theme/components/grid
+2. Да: 
+  * сетка: https://www.naiveui.com/en-US/os-theme/components/grid
   * более сложные способы разметки: https://www.naiveui.com/en-US/os-theme/components/layout
 3. Да: https://www.naiveui.com/en-US/os-theme/components/form
 4. Да: https://www.naiveui.com/en-US/os-theme/components/date-picker
 5. Да, есть практически всё (но не хватает гибко настраиваемого заголовка страницы, тот, что есть, не совсем то), например модальные окна: https://www.naiveui.com/en-US/os-theme/components/modal
-6. Да, например DataTable: https://www.naiveui.com/en-US/os-theme/components/data-table
+6. Да, например:
+  * DataTable: https://www.naiveui.com/en-US/os-theme/components/data-table
   * календарь: https://www.naiveui.com/en-US/os-theme/components/calendar
   * ввод тегов: https://www.naiveui.com/en-US/os-theme/components/dynamic-tags
 7. 50/50, стандартно есть локализация только для английского и китайского языков, но несложно сделать самостоятельно, например для русского языка: https://github.com/n-at/naive-ui-locale-ru
@@ -52,13 +54,15 @@
 Лицензия: MIT
 
 1. Да: https://2x.antdv.com/components/typography
-2. Да, сетка: https://2x.antdv.com/components/grid
-контейнер: https://2x.antdv.com/components/layout
+2. Да:
+  * сетка: https://2x.antdv.com/components/grid
+  * контейнер: https://2x.antdv.com/components/layout
 3. Да: https://2x.antdv.com/components/form
 4. Да: https://2x.antdv.com/components/date-picker
 5. Да, есть многое, например модальное окно: https://2x.antdv.com/components/modal
-6. Да, например таблицы достаточно мощные, чтобы заменить Data Table: https://2x.antdv.com/components/table
-деревья: https://2x.antdv.com/components/tree
+6. Да, например:
+  * таблицы достаточно мощные, чтобы заменить Data Table: https://2x.antdv.com/components/table
+  * деревья: https://2x.antdv.com/components/tree
 7. Да, русский язык стандартно поддерживается: https://2x.antdv.com/docs/vue/i18n
 8. Да, здесь своя дизайн-система (Ant Design, разработана в Ant Financial, используется в Alibaba), выглядит неплохо
 9. 50/50, можно настроить цвета: https://2x.antdv.com/docs/vue/customize-theme и некоторые мелочи, но кажется, отойти от дизайн-системы по внешнему виду компонентов не получится
@@ -79,7 +83,8 @@
 3. Да: https://vuetifyjs.com/en/components/forms/
 4. Да: https://vuetifyjs.com/en/components/date-pickers/
 5. Да, есть практически всё, например модальные окна: https://vuetifyjs.com/en/components/dialogs/
-6. Да, например DataTable: https://vuetifyjs.com/en/components/data-tables/
+6. Да, например:
+  * DataTable: https://vuetifyjs.com/en/components/data-tables/
   * полноценный календарь: https://vuetifyjs.com/en/components/calendars/
   * просмотр данных в виде деревьев: https://vuetifyjs.com/en/components/treeview/
 7. Да, строки и календари локализованы https://vuetifyjs.com/en/features/internationalization/
@@ -98,13 +103,15 @@
 Лицензия: MIT
 
 1. Да: https://quasar.dev/style/typography
-2. Да, сетка на основе flexbox: https://quasar.dev/layout/grid/introduction-to-flexbox
+2. Да:
+  * сетка на основе flexbox: https://quasar.dev/layout/grid/introduction-to-flexbox
   * контейнер: https://quasar.dev/layout/layout
 3. Да: https://quasar.dev/vue-components/form
 4. Да: https://quasar.dev/vue-components/date
 5. Да, есть практически всё, например модальные окна: https://quasar.dev/vue-components/dialog
 вместо заголовка есть аналог: https://quasar.dev/vue-components/toolbar
-6. Да, например WYSIWYG редактор: https://quasar.dev/vue-components/editor
+6. Да, например:
+  * WYSIWYG редактор: https://quasar.dev/vue-components/editor
   * стандартный компонент таблиц достаточно мощный, чтобы быть заменой Data Table: https://quasar.dev/vue-components/table
 7. Да, есть стандартная поддержка русского языка
 8. 50/50, это Material Design, но сделан неплохо
@@ -129,9 +136,11 @@
 2. Да, сетка: https://www.primefaces.org/primevue/showcase/#/grid
 3. Да, например поле ввода текста: https://www.primefaces.org/primevue/showcase/#/inputtext
 4. Да: https://www.primefaces.org/primevue/showcase/#/calendar
-5. Да, есть практически все, например модальные окна: https://www.primefaces.org/primevue/showcase/#/dialog
+5. Да, есть практически все, например:
+  * модальные окна: https://www.primefaces.org/primevue/showcase/#/dialog
   * заголовок страницы: https://www.primefaces.org/primevue/showcase/#/menubar
-6. Да, например DataTable: https://www.primefaces.org/primevue/showcase/#/datatable
+6. Да, например:
+  * DataTable: https://www.primefaces.org/primevue/showcase/#/datatable
   * календарь: https://www.primefaces.org/primevue/showcase/#/fullcalendar
   * диаграммы, через интеграцию с chart.js: https://www.primefaces.org/primevue/showcase/#/chart/bar
   * WYSIWYG редактор, интеграция с Quill: https://www.primefaces.org/primevue/showcase/#/editor
@@ -151,12 +160,14 @@
 Лицензия: MIT
 
 1. Нет
-2. Да, сетка: https://element-plus.org/#/en-US/component/layout
+2. Да:
+  * сетка: https://element-plus.org/#/en-US/component/layout
   * контейнер: https://element-plus.org/#/en-US/component/container
 3. Да: https://element-plus.org/#/en-US/component/form
 4. Да: https://element-plus.org/#/en-US/component/date-picker
 5. Да, есть практически всё, например модальные окна: https://element-plus.org/#/en-US/component/dialog
-6. Да, например календарь: https://element-plus.org/#/en-US/component/calendar
+6. Да, например:
+  * календарь: https://element-plus.org/#/en-US/component/calendar
   * стандартный компонент для таблиц достаточно мощный, чтобы выполнять функции DataTable: https://element-plus.org/#/en-US/component/table
 7. Да, есть стандартная локализация для русского языка
 8. Да, стандартная тема достаточно нейтральна
@@ -177,7 +188,8 @@
 2. Да: https://vuestic.dev/ru/styles/grid
 3. Да: https://vuestic.dev/ru/ui-elements/form
 4. Да: https://vuestic.dev/ru/ui-elements/date-picker
-5. Да, многое есть, например модальное окно: https://vuestic.dev/ru/ui-elements/modal
+5. Да, многое есть, например:
+  * модальное окно: https://vuestic.dev/ru/ui-elements/modal
   * заголовок страницы: https://vuestic.dev/ru/ui-elements/navbar
 6. Нет, особо интересного нет, Data Table пока в разработке
 7. Нет, у календаря можно настроить названия месяцев и дней недели
@@ -196,11 +208,13 @@
 Лицензия: MIT
 
 1. Да: https://inkline.io/docs/core/typography
-2. Да, сетка: https://inkline.io/docs/core/grid 
-контейнер: https://inkline.io/docs/core/layout
+2. Да:
+  * сетка: https://inkline.io/docs/core/grid 
+  * контейнер: https://inkline.io/docs/core/layout
 3. Да: https://inkline.io/docs/forms/form
 4. Нет
-5. Да, есть многое, например заголовок: https://inkline.io/docs/components/navbar
+5. Да, есть многое, например:
+  * заголовок: https://inkline.io/docs/components/navbar
   * модальное окно: https://inkline.io/docs/components/modal
 6. Да, например Data Table: https://inkline.io/docs/components/datatable/introduction
 7. 50/50, календаря нет, а для локализации строк в Data Table есть руководство: https://inkline.io/docs/components/datatable/api
@@ -267,7 +281,8 @@
 3. Да: https://next-material.balmjs.com/#/data-input/textfield
 4. Да, на основе flatpikr: https://next-material.balmjs.com/#/data-input/datepicker
 5. 50/50, не хватает заголовка (или его аналогов)
-6. Да, например Data Table: https://next-material.balmjs.com/#/data-display/table
+6. Да, например:
+  * Data Table: https://next-material.balmjs.com/#/data-display/table
   * WYSISYG редактор: https://next-material.balmjs.com/#/data-input/editor
 7. Нет, у flatpikr есть своя поддержка локализации, строки перевести нельзя (руководства на эту тему нет)
 8. Нет, это Material Design, но производит не особо хорошее впечатление (в отличие от Vuetify или Quasar)
